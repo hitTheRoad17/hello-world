@@ -1,9 +1,3 @@
-# Who:  Me
-# What: lab_template.asm
-# Why:  A template to be used for all CS264 labs
-# When: Created when? Due when?
-# How:  List the uses of registers
-
 .data
 
 
