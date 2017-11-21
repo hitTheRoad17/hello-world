@@ -15,8 +15,7 @@ const int nMax = 100;
 double f (double x)
 {
 	double fx1;
-	fx1 = (x * cos(x)) - (2 * pow(x, 2)) + (3 * x) - 1;
-	// fx1 = pow(x,3) - (7 * pow(x,2)) + (14 * x) - 6;
+	
 	return (fx1);
 }
 
